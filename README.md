@@ -12,6 +12,6 @@
 
 # Some risky components
 
-## Outside API, bringing in quiz question from the internet
-## The data base that houses the questions
-## Grid layout
+- ## Outside API, bringing in quiz question from the internet
+- ## The data base that houses the questions
+- ## Grid layout
